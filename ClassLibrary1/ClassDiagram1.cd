@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ISBusinessLayer.BaseObject">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAACAQAAAgAAAIAAAAAAAAAAAAAAAAIJAAAAEAAA=</HashCode>
+      <FileName>BaseObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISBusinessLayer.DataClasses1DataContext" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAgAAgIAAIIABoCgAAAADEAqVAASAQAIkGQAAABAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISBusinessLayer.ISFolder">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAFAbAQIAgAAAEIACAAAQAAAgAgERAAAgAAIAAAAEA=</HashCode>
+      <FileName>ISFolder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISBusinessLayer.ISImage">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAEAAAAAAAAAAAAIQQAAAAgAAAAAAAAAAAABAA=</HashCode>
+      <FileName>ISImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISBusinessLayer.ISProductType" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAABAYAAAAAAAgAAJQQAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>ISProductType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISBusinessLayer.ISResolution">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAABBIAAAAAAAAAABUAAAAAAAAAAAAAAAIAABBA=</HashCode>
+      <FileName>ISResolution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISBusinessLayer.ISUser">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAIEEBAKEAAEAIAQIABQABAAEACAACAAAAABAABAA=</HashCode>
+      <FileName>ISUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISBusinessLayer.Properties.Settings" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISBusinessLayer.BaseFunctions" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAwAAACAAAAAAAAAAAAIAAAAAAAAAAKAAgAAAAAEAA=</HashCode>
+      <FileName>BaseFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,63 @@
+C:\Users\seth\Documents\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\obj\Debug\ISBusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\seth\Documents\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\bin\Debug\ISBusinessLayer.dll.config
+C:\Users\seth\Documents\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\bin\Debug\ISBusinessLayer.dll
+C:\Users\seth\Documents\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\bin\Debug\ISBusinessLayer.pdb
+C:\Users\seth\Documents\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\obj\Debug\ISBusinessLayer.dll
+C:\Users\seth\Documents\Visual Studio 2012\Projects\WebApplication1\ClassLibrary1\obj\Debug\ISBusinessLayer.pdb
+J:\WebApplication1\ClassLibrary1\obj\Debug\ISBusinessLayer.csprojResolveAssemblyReference.cache
+J:\WebApplication1\ClassLibrary1\obj\Debug\ISBusinessLayer.dll
+J:\WebApplication1\ClassLibrary1\obj\Debug\ISBusinessLayer.pdb
+J:\WebApplication1\ClassLibrary1\bin\Debug\ISBusinessLayer.dll.config
+J:\WebApplication1\ClassLibrary1\bin\Debug\ISBusinessLayer.dll
+J:\WebApplication1\ClassLibrary1\bin\Debug\ISBusinessLayer.pdb
+D:\WebApplication1\ClassLibrary1\bin\Debug\ISBusinessLayer.dll.config
+D:\WebApplication1\ClassLibrary1\bin\Debug\ISBusinessLayer.dll
+D:\WebApplication1\ClassLibrary1\bin\Debug\ISBusinessLayer.pdb
+D:\WebApplication1\ClassLibrary1\obj\Debug\ISBusinessLayer.dll
+D:\WebApplication1\ClassLibrary1\obj\Debug\ISBusinessLayer.pdb
+M:\WebSite2\ClassLibrary1\bin\Debug\ISBusinessLayer.dll.config
+M:\WebSite2\ClassLibrary1\bin\Debug\ISBusinessLayer.dll
+M:\WebSite2\ClassLibrary1\bin\Debug\ISBusinessLayer.pdb
+M:\WebSite2\ClassLibrary1\obj\Debug\ISBusinessLayer.dll
+M:\WebSite2\ClassLibrary1\obj\Debug\ISBusinessLayer.pdb
+C:\Users\student\Desktop\WebSite2\ClassLibrary1\bin\Debug\ISBusinessLayer.dll.config
+C:\Users\student\Desktop\WebSite2\ClassLibrary1\bin\Debug\ISBusinessLayer.dll
+C:\Users\student\Desktop\WebSite2\ClassLibrary1\bin\Debug\ISBusinessLayer.pdb
+C:\Users\student\Desktop\WebSite2\ClassLibrary1\obj\Debug\ISBusinessLayer.dll
+C:\Users\student\Desktop\WebSite2\ClassLibrary1\obj\Debug\ISBusinessLayer.pdb
+C:\Users\student\Desktop\WebSite2\ClassLibrary1\obj\Debug\ISBusinessLayer.csprojResolveAssemblyReference.cache
+C:\SWE\WebSite2\ClassLibrary1\bin\Debug\ISBusinessLayer.dll.config
+C:\SWE\WebSite2\ClassLibrary1\bin\Debug\ISBusinessLayer.dll
+C:\SWE\WebSite2\ClassLibrary1\bin\Debug\ISBusinessLayer.pdb
+C:\SWE\WebSite2\ClassLibrary1\obj\Debug\ISBusinessLayer.dll
+C:\SWE\WebSite2\ClassLibrary1\obj\Debug\ISBusinessLayer.pdb
+C:\SWE\WebSite2\ClassLibrary1\obj\Debug\ISBusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\seth\Desktop\WebSite2\ClassLibrary1\bin\Debug\ISBusinessLayer.dll.config
+C:\Users\seth\Desktop\WebSite2\ClassLibrary1\bin\Debug\ISBusinessLayer.dll
+C:\Users\seth\Desktop\WebSite2\ClassLibrary1\bin\Debug\ISBusinessLayer.pdb
+C:\Users\seth\Desktop\WebSite2\ClassLibrary1\obj\Debug\ISBusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\seth\Desktop\WebSite2\ClassLibrary1\obj\Debug\ISBusinessLayer.dll
+C:\Users\seth\Desktop\WebSite2\ClassLibrary1\obj\Debug\ISBusinessLayer.pdb
+C:\Users\seth\Desktop\IS\ClassLibrary1\bin\Debug\ISBusinessLayer.dll.config
+C:\Users\seth\Desktop\IS\ClassLibrary1\bin\Debug\ISBusinessLayer.dll
+C:\Users\seth\Desktop\IS\ClassLibrary1\bin\Debug\ISBusinessLayer.pdb
+C:\Users\seth\Desktop\IS\ClassLibrary1\obj\Debug\ISBusinessLayer.dll
+C:\Users\seth\Desktop\IS\ClassLibrary1\obj\Debug\ISBusinessLayer.pdb
+C:\Users\seth\Desktop\IS\ClassLibrary1\obj\Debug\ISBusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\IS\ClassLibrary1\bin\Debug\ISBusinessLayer.dll.config
+C:\Users\student\Desktop\IS\ClassLibrary1\bin\Debug\ISBusinessLayer.dll
+C:\Users\student\Desktop\IS\ClassLibrary1\bin\Debug\ISBusinessLayer.pdb
+C:\Users\student\Desktop\IS\ClassLibrary1\obj\Debug\ISBusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\IS\ClassLibrary1\obj\Debug\ISBusinessLayer.dll
+C:\Users\student\Desktop\IS\ClassLibrary1\obj\Debug\ISBusinessLayer.pdb
+C:\Users\student\Desktop\IS neu (Version 7)\ClassLibrary1\bin\Debug\ISBusinessLayer.dll.config
+C:\Users\student\Desktop\IS neu (Version 7)\ClassLibrary1\bin\Debug\ISBusinessLayer.dll
+C:\Users\student\Desktop\IS neu (Version 7)\ClassLibrary1\bin\Debug\ISBusinessLayer.pdb
+C:\Users\student\Desktop\IS neu (Version 7)\ClassLibrary1\obj\Debug\ISBusinessLayer.dll
+C:\Users\student\Desktop\IS neu (Version 7)\ClassLibrary1\obj\Debug\ISBusinessLayer.pdb
+C:\FlexSDK\Version 8 (Abgabe)\ClassLibrary1\bin\Debug\ISBusinessLayer.dll.config
+C:\FlexSDK\Version 8 (Abgabe)\ClassLibrary1\bin\Debug\ISBusinessLayer.dll
+C:\FlexSDK\Version 8 (Abgabe)\ClassLibrary1\bin\Debug\ISBusinessLayer.pdb
+C:\FlexSDK\Version 8 (Abgabe)\ClassLibrary1\obj\Debug\ISBusinessLayer.csprojResolveAssemblyReference.cache
+C:\FlexSDK\Version 8 (Abgabe)\ClassLibrary1\obj\Debug\ISBusinessLayer.dll
+C:\FlexSDK\Version 8 (Abgabe)\ClassLibrary1\obj\Debug\ISBusinessLayer.pdb
