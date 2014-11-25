@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ISBusinessLayer.BaseFunctions">
+    <Position X="14" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UQAwGAACAAAAAAAAAAAAIAAgAAAAAAAKAAgAAAAAEAA=</HashCode>
+      <FileName>BaseFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISBusinessLayer.BaseObject">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAACAQAAAgAAAIAAAAAAAAAAAAAAAAAJAAAAEAAA=</HashCode>
+      <FileName>BaseObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISBusinessLayer.ISFolder">
+    <Position X="10.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAFA7AQIAgAAAEIACACAQABAgAgERAAAgAAIAAAAEA=</HashCode>
+      <FileName>ISFolder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISBusinessLayer.ISImage">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAACAAEAAAAAAAIAAAQIQQAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>ISImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISBusinessLayer.ISManagementAccess">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAQAADAIABQAAAAABAIQAAgAUAAAABAAACMAA=</HashCode>
+      <FileName>ISManagementAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISBusinessLayer.ISOrder">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAQAAAAAIABAAAAAQAgAAAAABUAAAAAAAAAEAA=</HashCode>
+      <FileName>ISOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISBusinessLayer.ISProductType">
+    <Position X="8.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAABAYAAAAAAAgAAJQQAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>ISProductType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISBusinessLayer.ISResolution">
+    <Position X="15.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAABBIAAAAAAAAAABUAAAAAAAAAAAAAAAIAABhA=</HashCode>
+      <FileName>ISResolution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISBusinessLayer.ISUser">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAIEEBAKEAAEAJAQMEBUABAAUACgACAAAAABAABAE=</HashCode>
+      <FileName>ISUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
